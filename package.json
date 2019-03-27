@@ -1,6 +1,6 @@
 {
   "name":"@bricksphd/tiny",
-  "version":"0.0.1",
+  "version":"0.0.2",
   "description":"A trivial package that tests pushing to npm",
   "license":"MIT",
   "repository":"bricksphd/tiny",
