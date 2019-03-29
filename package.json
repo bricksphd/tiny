@@ -7,5 +7,11 @@
   "main": "index.js",
   "keywords": [
     "npm"
-  ]
+  ],
+  "dependencies": {
+    "mocha": "^6.0.2"
+  },
+  "scripts":{
+    "test":"mocha"
+  }
 }
